@@ -65,4 +65,5 @@
       </plugin>
     </plugins>
   </reporting>
+  <!--test -->
 </project>
